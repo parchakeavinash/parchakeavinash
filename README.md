@@ -1,24 +1,33 @@
-Kii- 👋 Hi, I’m @parchakeavinash
-🚀 Aspiring AI Enthusiast | Data Analyst | Data Science Enthusiast 📊 | Python 🐍 | Excel 📈 | SQL 🗃️ | Power BI 📊 | Adv Pandas 🐼 | Lifelong Learner 🌱
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avinash Parchake
+========================================================================================================================================
 
-👋 Hey fellow developers! I'm Avinash Parchake, a data enthusiast with a keen interest in artificial intelligence and data science. My journey involves exploring the realms of data analysis, leveraging Python for its powerful capabilities, and diving into the intricacies of SQL. Proficient in Excel and passionate about transforming raw data into meaningful insights.
+Analyst.
+--------
 
-💡 Currently honing my skills in advanced Pandas techniques and unraveling the mysteries of AI. Whether it's wrangling data or crafting machine learning models, I'm on a mission to harness the full potential of data to solve real-world problems.
+From a student in 12th grade with little exposure to tech, Avinash Parchake’s journey into the world of technology has been one of self-discovery, relentless learning, and hands-on creation. Now pursuing a B.Tech at G.H. Raisoni College of Engineering, he’s turned curiosity into capability building real-world projects and diving deep into data. What started as a spark has become a blazing path of achievements. Avinash has ranked globally in the ICC Nextin 2.0 Hackathon and created advanced analytics tools like an IPL 2025 dashboard using Power BI and Python, as well as robust SQL-based data warehouse systems. He doesn’t just code—he crafts solutions that extract insights and add value. Driven by a love for reading and personal growth, Avinash continues to evolve pairing technical expertise in Python, SQL, and cloud services with strong communication and teamwork. His story isn’t just about learning tech it’s about becoming a problem solver in a fast-changing world
 
-🔧 Tech Stack: Python, SQL, Excel, Power BI, Advanced Pandas.
+* 🌍  I'm based in India
+* ✉️  You can contact me at [avinashparchake781@gmail.com](mailto:avinashparchake781@gmail.com)
+* 🚀  I'm currently working on [Big Data and Cloud](http://https://github.com/parchakeavinash/IPL_Data-Analysis-using-Spark)
+* 🧠  I'm learning Spark, Azure and Building Data pipelines
+* 🤝  I'm open to collaborating on Data Analyst, Power Bi, SQL and Data engineering
 
-📊 Excited about the intersection of data and AI! Check out my repositories for projects in data analysis and stay tuned for upcoming AI explorations.
-
-🌐 Lifelong learner seeking to connect with like-minded individuals, share insights, and contribute to the ever-evolving world of data. Let's collaborate and build something amazing together!
-
-📫 Let's connect:
-- LinkedIn: https://www.linkedin.com/in/avinash-parchake/
-- Twitter: https://twitter.com/AvinashParchake
-
-👨‍💻 Data in, insights out. Happy coding! 🤖✨
+### Skills
 
 
-<!---
-parchakeavinash/parchakeavinash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/parchakeavinash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/avinash-parchake/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@AvinashParchake" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/parchakeavinash"><img src="https://github-readme-stats.vercel.app/api?username=parchakeavinash&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=22c55e&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="parchakeavinash's GitHub stats" /></a>
+
+<a href="http://www.github.com/parchakeavinash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=parchakeavinash&stroke=22c55e&background=000000&ring=ffffff&fire=ffffff&currStreakNum=22c55e&currStreakLabel=ffffff&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
